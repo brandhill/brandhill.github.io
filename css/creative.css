@@ -294,7 +294,7 @@ header .header-content .header-content-inner p {
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-size: 14px;
     font-weight: 600;
 }
