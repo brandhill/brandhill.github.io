@@ -64,6 +64,10 @@ p {
     color: rgba(255,255,255,2);
 }
 
+.text-size-mid {
+    font-size: 18px;
+}
+
 
 section {
     padding: 100px 0;
@@ -228,6 +232,7 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 1000px;
+        text-shadow: 1px 1px #999999;
     }
 
     header .header-content .header-content-inner p {
@@ -235,6 +240,7 @@ header .header-content .header-content-inner p {
         margin-left: auto;
         max-width: 80%;
         font-size: 18px;
+        text-shadow: 1px 1px #999999;
     }
 }
 
